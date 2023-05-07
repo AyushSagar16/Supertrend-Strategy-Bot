@@ -1,0 +1,1 @@
+# Supertrend-Strategy-Bot
