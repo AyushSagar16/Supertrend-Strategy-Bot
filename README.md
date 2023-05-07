@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-This bot is provided for educational and informational purposes only. It is not intended to be used as a financial or investment advice. The author of this bot is not liable for any losses that may arise from its use. The user assumes all responsibility and risk associated with the use of this bot.
+This bot is provided for educational and informational purposes only. It is not intended to be used as a financial or investment advice. The user assumes all responsibility and risk associated with the use of this bot.
